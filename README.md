@@ -2,6 +2,10 @@
 
 This script (`usbm.sh`) helps you mount a USB storage device on a GL.iNet GL-RM1 KVM and bind-mount any `.iso` files so they appear under `/userdata/media` for use in the KVM UI. The GL-RM1 has only ~5GB of eMMC, so this lets you keep large ISOs on external storage.
 
+<img width="1331" height="781" alt="image" src="https://github.com/user-attachments/assets/71904d82-6c59-4496-b7bb-733601e36741" />
+<img width="716" height="810" alt="image" src="https://github.com/user-attachments/assets/6eacddbc-5e94-46cb-9377-b4fe7d7376ec" />
+
+
 ## What it does
 
 - Mounts the USB partition you choose at `/mnt/usb`.
